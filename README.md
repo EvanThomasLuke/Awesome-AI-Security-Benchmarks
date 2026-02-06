@@ -1,5 +1,5 @@
 # Awesome-AI-Security-Benchmarks
-List of AI Security benchmarks 
+List of AI Security benchmarks (with some datasets, working on a seperate repo for datasets)
 
 
 
