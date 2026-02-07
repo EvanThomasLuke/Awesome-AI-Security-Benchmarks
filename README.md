@@ -1,7 +1,7 @@
 # Awesome-AI-Security-Benchmarks
 List of AI Security benchmarks (with some datasets, working on a seperate repo for datasets)
 
-
+Come chat about AI Security benchmarks in the AI Hacking Discord [https://discord.com/channels/1422426099391922258/1422426100067471462/1469143844216897588](https://discord.gg/9AJnkNe6RE )
 
 **Total unique benchmarks: ~175 (165 core cybersecurity + 10 AI security adjacent)**
 
