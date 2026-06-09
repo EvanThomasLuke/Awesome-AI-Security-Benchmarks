@@ -207,7 +207,7 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 | Truth Seeker Dataset | 2023 | Dataset | [UNB](https://www.unb.ca/cic/datasets/truthseeker-2023.html) | Misinformation detection in cybersecurity context |
 | BinMetric | 2025 | Harness | [arXiv:2505.07360](https://arxiv.org/abs/2505.07360) | Binary analysis metrics and evaluation benchmark |
 | OS-Harm | 2025 | Environment | [arXiv:2506.14866](https://arxiv.org/abs/2506.14866) | Safety of computer use agents with GUIs (150 tasks) |
-
+| AgentThreatBench | UK AISI / inspect_evals | 2026 | Benchmark | OWASP Top 10 Agentic | Agentic security eval: memory poisoning (ASI06), autonomy hijack (ASI01), data exfiltration (ASI01) |
 ---
 
 ## Summary Statistics
@@ -235,5 +235,3 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 
 ---
 
-
-| [AgentThreatBench](https://ukgovernmentbeis.github.io/inspect_evals/evals/safeguards/agent_threat_bench/) | UK AISI / inspect_evals | 2026 | Benchmark | OWASP Top 10 Agentic | Agentic security eval: memory poisoning (ASI06), autonomy hijack (ASI01), data exfiltration (ASI01) |
