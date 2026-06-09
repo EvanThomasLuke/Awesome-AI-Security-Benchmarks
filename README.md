@@ -235,3 +235,5 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 
 ---
 
+
+| [AgentThreatBench](https://ukgovernmentbeis.github.io/inspect_evals/evals/safeguards/agent_threat_bench/) | UK AISI / inspect_evals | 2026 | Benchmark | OWASP Top 10 Agentic | Agentic security eval: memory poisoning (ASI06), autonomy hijack (ASI01), data exfiltration (ASI01) |
