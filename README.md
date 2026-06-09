@@ -1,7 +1,7 @@
 # Awesome-AI-Security-Benchmarks
 List of AI Security benchmarks (with some datasets, working on a seperate repo for datasets). 
 
-THIS IS A WORK IN PROGRESS. I need to fix some of the categorizations and add more. 
+THIS IS A WORK IN PROGRESS. I need to fix some of the categorizations and add more. There may be some errors and hallucinations just fyi. 
 
 
 
