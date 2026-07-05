@@ -92,7 +92,7 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 | SEC-bench | 2025 | Environment | [arXiv:2506.11791](https://arxiv.org/abs/2506.11791) | Automated benchmarking of LLM agents on real-world security tasks |
 | CASTLE | 2025 | Dataset | [arXiv:2503.09433](https://arxiv.org/abs/2503.09433) &#124; [GitHub](https://github.com/CASTLE-Benchmark/CASTLE-Benchmark) | Benchmarking dataset for static code analysis with ground-truth annotations |
 | MT-Sec | 2025 | Dataset | [arXiv:2503.09700](https://arxiv.org/abs/2503.09700) | Benchmarking correctness and security in multi-turn code generation |
-| DUALGUAGE | 2025 | Harness | [arXiv:2503.09380](https://arxiv.org/abs/2503.09380) | Automated joint security-functionality benchmarking |
+| DUALGUAGE | 2025 | Harness | [arXiv:2511.20709](https://arxiv.org/pdf/2511.20709) | Automated joint security-functionality benchmarking |
 | BaxBench | 2025 | Environment | [arXiv:2502.11844](https://arxiv.org/abs/2502.11844) &#124; [GitHub](https://github.com/logic-star-ai/baxbench) | 392 backend tasks validating functionality and exploits |
 | SecCodeBench | 2025 | Harness | [GitHub](https://github.com/alibaba/sec-code-bench) | Alibaba's 37 test cases / 16 CWEs with dynamic PoC exploits |
 | AutoPatchBench | 2025 | Component | [GitHub](https://github.com/meta-llama/PurpleLlama) | Automated vulnerability patching (component of CyberSecEval v4) |
