@@ -235,3 +235,11 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 
 ---
 
+
+
+
+# todo 
+
+https://github.com/ethiack/ethibench
+
+
