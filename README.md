@@ -242,4 +242,8 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 
 https://github.com/ethiack/ethibench
 
+https://x.com/AISecHub/status/2077481328950292544
+
+
+
 
