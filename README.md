@@ -133,6 +133,7 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 | WASP | 2025 | Environment | [arXiv:2504.18575](https://arxiv.org/abs/2504.18575) &#124; [GitHub](https://github.com/facebookresearch/wasp) | Web Agent Security against Prompt injection attacks (Meta) |
 | WAInjectBench | 2025 | Harness | [arXiv:2510.01354](https://arxiv.org/abs/2510.01354) | Benchmarking prompt injection detections for web agents |
 | RAS-Eval | 2025 | Harness | [arXiv:2506.15253](https://arxiv.org/abs/2506.15253) | Security eval benchmark for LLM agents with tool execution |
+| MCP-Defense-Bench | 2026 | Framework | [GitHub](https://github.com/Gowthaman90/mcp-defense-bench) &#124; [DOI](https://doi.org/10.5281/zenodo.21346206) &#124; [Leaderboard](https://gowthaman90.github.io/mcp-defense-bench/) | Vendor-neutral benchmark measuring how much of the MCP (Model Context Protocol) attack surface a defensive proxy/gateway/scanner covers (22–24 vectors), crosswalked to NIST AI RMF and OWASP LLM/Agentic Top 10 |
 | **JAILBREAK & RED TEAMING** |||||
 | JailbreakBench | 2024 | Harness | [arXiv:2404.01318](https://arxiv.org/abs/2404.01318) &#124; [GitHub](https://github.com/JailbreakBench/jailbreakbench) &#124; [Website](https://jailbreakbench.github.io/) | 200 behaviors for standardized jailbreak evaluation |
 | HarmBench | 2024 | Harness | [arXiv:2402.04249](https://arxiv.org/abs/2402.04249) &#124; [GitHub](https://github.com/centerforaisafety/HarmBench) | Standardized evaluation framework for automated red teaming |
