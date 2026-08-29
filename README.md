@@ -54,7 +54,7 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 | TermiBench | 2025 | Environment | [arXiv:2509.09207](https://arxiv.org/abs/2509.09207) | Real-world pentesting benchmark; 510 hosts/30 CVEs; shell-focused |
 | CTFTiny | 2025 | Dataset | [arXiv:2508.05674](https://arxiv.org/abs/2508.05674) | Curated 50 representative CTF challenges for rapid evaluation of offensive-security agents |
 | CVE-Bench | 2025 | Environment | [arXiv:2503.17332](https://arxiv.org/abs/2503.17332) &#124; [GitHub](https://github.com/uiuc-kang-lab/cve-bench) | Real-world webapp vulnerability exploitation based on critical CVEs |
-| XBOW Validation | 2025 | Environment | [Website](https://xbow.com/) | 104 web security challenges for autonomous offensive tools |
+| XBOW Validation | 2025 | Environment | [GitHub](https://github.com/xbow-engineering/validation-benchmarks) &#124; [Website](https://xbow.com/) | 104 web security challenges for autonomous offensive tools |
 | CyberGym | 2025 | Environment | [arXiv:2506.02548](https://arxiv.org/abs/2506.02548) &#124; [HuggingFace](https://huggingface.co/datasets/sunblaze-ucb/cybergym) | 1,507 instances from 188 OSS projects with ASan/UBSan validation |
 | Cyberattack Capabilities Framework | 2025 | Framework | [arXiv:2503.11917](https://arxiv.org/abs/2503.11917) &#124; [DeepMind Blog](https://deepmind.google/discover/blog/a-framework-for-evaluating-ai-cyberattack-capabilities/) | End-to-end attack chain evaluation with representative archetypes |
 | **VULNERABILITY DETECTION** |||||
