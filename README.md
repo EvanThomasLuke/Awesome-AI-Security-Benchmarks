@@ -7,7 +7,7 @@ THIS IS A WORK IN PROGRESS. I need to fix some of the categorizations and add mo
 
 Come chat about AI Security benchmarks in the AI Hacking Discord [https://discord.com/channels/1422426099391922258/1422426100067471462/1469143844216897588](https://discord.gg/9AJnkNe6RE )
 
-**Total unique benchmarks: ~175 (165 core cybersecurity + 10 AI security adjacent)**
+**Total unique benchmarks: ~176 (166 core cybersecurity + 10 AI security adjacent)**
 
 ---
 
@@ -113,6 +113,7 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 | LogLLM | 2024 | Harness | [arXiv:2411.08561](https://arxiv.org/abs/2411.08561) | Log-based anomaly detection using large language models |
 | LogLM | 2024 | Dataset | [arXiv:2410.09352](https://arxiv.org/abs/2410.09352) | Task-based to instruction-based automated log analysis benchmark |
 | DefenderBench | 2025 | Harness | [arXiv:2506.00739](https://arxiv.org/abs/2506.00739) &#124; [GitHub](https://github.com/microsoft/DefenderBench) | Microsoft toolkit spanning offense/defense/understanding |
+| Cyber Defense Benchmark | 2026 | Environment | [arXiv:2604.19533](https://arxiv.org/abs/2604.19533) &#124; [GitHub](https://github.com/simbianai/cyber_defense_benchmark) | Gymnasium RL env: agents flag malicious event timestamps in raw Windows logs across 106 ATT&CK procedures |
 | **PHISHING DETECTION** |||||
 | PhishAgent Benchmark | 2024 | Harness | [arXiv:2408.02291](https://arxiv.org/abs/2408.02291) | Multimodal agent evaluation for phishing webpage detection |
 | MLLM Phishing Benchmark | 2025 | Dataset | [arXiv:2503.01040](https://arxiv.org/abs/2503.01040) | Comprehensive security benchmark for multimodal LLMs |
@@ -221,17 +222,17 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 | Vulnerability Detection | 19 |
 | Secure Code Generation | 20 |
 | Threat Intelligence & CTI | 5 |
-| Malware & SOC | 7 |
+| Malware & SOC | 8 |
 | Phishing Detection | 6 |
 | Prompt Injection | 12 |
 | Jailbreak & Red Teaming | 20 |
 | Meta-Benchmarks | 4 |
 | Network & IDS Datasets | 22 |
 | Miscellaneous | 12 |
-| **Core Cybersecurity Benchmarks** | **~165** |
+| **Core Cybersecurity Benchmarks** | **~166** |
 | *AI Security Adjacent: Adversarial ML* | *7* |
 | *AI Security Adjacent: Deepfake & Media* | *3* |
-| **TOTAL (incl. adjacent)** | **~175** |
+| **TOTAL (incl. adjacent)** | **~176** |
 
 ---
 
