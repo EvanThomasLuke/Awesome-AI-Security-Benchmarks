@@ -160,7 +160,7 @@ Come chat about AI Security benchmarks in the AI Hacking Discord [https://discor
 | CyberPII-Bench | 2025 | Dataset | [arXiv:2510.24317](https://arxiv.org/abs/2510.24317) | PII anonymization evaluation in cybersecurity contexts |
 | Cyber-Zero | 2025 | Framework | [arXiv:2508.00910](https://arxiv.org/abs/2508.00910) &#124; [GitHub](https://github.com/Cyber-Zero/Cyber-Zero) | Training framework with benchmark suites for EnIGMA+ |
 | EnIGMA | 2024 | Environment | [arXiv:2409.16165](https://arxiv.org/abs/2409.16165) &#124; [GitHub](https://github.com/TorRient/EnIGMA) | Enhanced interactive generative model agent for CTF |
-| agent-evidence-vectors | 2026 | Conformance suite | [GitHub](https://github.com/astrogilda/agent-evidence-vectors) &#124; [Zenodo](https://doi.org/10.5281/zenodo.22758687) | 461 conformance vectors across eight corpora for agent execution evidence, judged by one Go verifier that recomputes each outcome from the attested bytes |
+| agent-evidence-vectors | 2026 | Conformance suite | [GitHub](https://github.com/probityai/agent-evidence-vectors) &#124; [Zenodo](https://doi.org/10.5281/zenodo.22758687) | 461 conformance vectors across eight corpora for agent execution evidence, judged by one Go verifier that recomputes each outcome from the attested bytes |
 | **NETWORK & IDS DATASETS** |||||
 | NSL-KDD | 2009 | Dataset | [UNB](https://www.unb.ca/cic/datasets/nsl.html) | Classic network intrusion detection dataset |
 | CIC-IDS 2017 | 2017 | Dataset | [UNB](https://www.unb.ca/cic/datasets/ids-2017.html) | Intrusion detection evaluation dataset |
